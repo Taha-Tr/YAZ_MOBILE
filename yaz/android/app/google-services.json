@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953098642168",
+    "project_id": "pfe-f88f3",
+    "storage_bucket": "pfe-f88f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953098642168:android:429b0310081d8b096fd10d",
+        "android_client_info": {
+          "package_name": "com.example.yaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_5byjpAinwGd08YVX4C6630v0kVOQUhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
